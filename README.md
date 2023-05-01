@@ -2,6 +2,38 @@
 
 This is going to be the repo in which you are going to find some of the material we are going to cover in the Python Masterclasses and Workshops! 
 
+
+## Syllabus
+
+- *Week 1:* Arrays
+- *Week 2:* Nested Loops
+- *Week 3:* Functions
+- *Week 4:* *tbc*
+- *Week 5:* *tbc*
+
+**Possible topics for the last 2 weeks:**
+- Graphic representation of data
+- How to organise your code repository for your project
+- Useful python libraries (homebrew, pandas, numpy, matplotlib, scikit learn, seaborn)
+- Introduction to Machine Learning
+- Q&A on software industry, coding interviews, working as a developer/ML Engineer
+
+**Please vote here on which topic are you interested in covering: [Link to poll](https://app.sli.do/event/jAC1ujgrS8pxWhxFkeXaHw) !!!**
+
+----------
+## 1st May 2023
+
+Since it turns out that most of you have more or less the same level, we can go through the material together and make these classes more organised. There is going to be two sessions from now on: 
+
+- *Thursdays (Laura):* We cover the theory for each week's tutorials
+- *Tuesdays (Rosita):* Go over the practice in each week's exercise
+
+Inside the folder for each week you will find a solutions folder with sample solutions for all the exercises
+
+For the tutorial of the 1st of May, finish the work you started for week 1 on Arrays. 
+
+On Thursday we will start with Nested Loops :D 
+
 ----------
 
 ## 24th of April 2023
