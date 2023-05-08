@@ -6,19 +6,29 @@ This is going to be the repo in which you are going to find some of the material
 ## Syllabus
 
 - *Week 1:* Arrays
-- *Week 2:* Nested Loops
-- *Week 3:* Functions
-- *Week 4:* *tbc*
+- *Week 2:* Arrays
+- *Week 3:* Tuesday: Nested Arrays, Thursday: Functions
+- *Week 4:* How to organise your code repository for your project
 - *Week 5:* *tbc*
 
-**Possible topics for the last 2 weeks:**
+**Possible topics for the last week:**
 - Graphic representation of data
-- How to organise your code repository for your project
 - Useful python libraries (homebrew, pandas, numpy, matplotlib, scikit learn, seaborn)
 - Introduction to Machine Learning
 - Q&A on software industry, coding interviews, working as a developer/ML Engineer
 
 **Please vote here on which topic are you interested in covering: [Link to poll](https://app.sli.do/event/jAC1ujgrS8pxWhxFkeXaHw) !!!**
+
+
+
+----------
+## Tuesday 9th May 2023
+
+Lets start nested loops, with [this tutorial](./Week2%3A%20Nested%20Loops/tutorial.ipynb)
+
+The exercises are hard, but try your best! If you need to look over the solutions you can find them [here](./Week2%3A%20Nested%20Loops/solutions/tutorial.ipynb)
+
+Go over them slowly and try to understand the logic! Let me know if you have any questions
 
 ----------
 ## 1st May 2023
